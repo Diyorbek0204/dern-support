@@ -353,15 +353,6 @@ export default function ContactPage() {
         </div>
       </div>
 
-      {/* Map Section */}
-      <div className="w-full h-96 bg-gray-200 mt-16">
-        <div className="w-full h-full flex items-center justify-center bg-gray-300">
-          <div className="text-center">
-            <MapPin className="h-12 w-12 text-gray-500 mx-auto mb-2" />
-            <p className="text-gray-600">Xarita joylashuvi</p>
-          </div>
-        </div>
-      </div>
 
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-12">
